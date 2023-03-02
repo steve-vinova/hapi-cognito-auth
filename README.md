@@ -9,7 +9,7 @@ This package adds a [Cognito](https://aws.amazon.com/cognito/) auth scheme to a 
 ```console
 npm i @trinitiventures/hapi-cognito-auth
 ```
-
+test
 ## Configuration
 Below is an example of how to configure this plugin with [Confidence](https://github.com/hapipal/confidence) (pun intended ;)
 ```javascript
